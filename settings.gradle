@@ -1,0 +1,6 @@
+include ':App'
+include ':Debug'
+include ':Common'
+include ':Basic:Live'
+
+rootProject.name = 'TRTC-Picture-In-Picture'
